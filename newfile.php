@@ -1,4 +1,6 @@
 <?php
 echo "Hello git!";
 
-echo "this is the develbranche!!!";
+function wtf(){
+	echo "painful...";
+}
